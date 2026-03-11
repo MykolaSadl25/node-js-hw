@@ -1,0 +1,21 @@
+{
+  "name": "js-hw",
+  "version": "1.0.0",
+  "description": "my js hw",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MykolaSadl25/node-js-hw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MykolaSadl25/node-js-hw/issues"
+  },
+  "homepage": "https://github.com/MykolaSadl25/node-js-hw#readme"
+}
